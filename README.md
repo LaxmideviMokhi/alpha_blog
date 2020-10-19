@@ -1,1 +1,1 @@
-alpha blog assignment application.
+made application ready for production.
